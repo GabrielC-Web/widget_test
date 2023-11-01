@@ -6,7 +6,7 @@ function openWidget() {
         width: '80%',
         height: '80%',
         radius:0,
-        url: 'http://localhost:4200/'
+        url: 'https://sandbox-wod.pagochinchin.com/'
     })
     
     button?.setAttribute('configuration', configuration)
